@@ -34,7 +34,7 @@
   "main": "level.js",
   "dependencies": {
     "level-packager": "^2.0.2",
-    "leveldown": "git+https://github.com/zxj028/leveldown.git#shenjian-win32_x64"
+    "leveldown": "git+https://github.com/zxj028/leveldown.git#win32x64"
   },
   "devDependencies": {
     "standard": "^10.0.3",
